@@ -1,6 +1,7 @@
 package FactoryPattern;
 
 /**
+ * 获取需要对象的工厂
  * @author Cocowwy
  * @create 2020-09-09-12:26
  */
