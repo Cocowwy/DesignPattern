@@ -1,8 +1,5 @@
 package FactoryPattern;
 
-import jdk.nashorn.internal.objects.annotations.Getter;
-import jdk.nashorn.internal.objects.annotations.Setter;
-
 /**
  * 模拟 向mysql数据库中查数据
  * @author Cocowwy
