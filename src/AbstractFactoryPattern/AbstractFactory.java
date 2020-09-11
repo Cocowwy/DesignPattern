@@ -1,7 +1,7 @@
 package AbstractFactoryPattern;
 
 /**
- * Drink和Food的抽象工程
+ * Drink和Food的抽象工厂
  *
  * @author Cocowwy
  * @create 2020-09-09-15:16
