@@ -6,3 +6,4 @@ CSDN博客地址：https://blog.csdn.net/Pzzzz_wwy
 创建型模式：
 FactoryPattern ---》工厂模式
 AbstractFactoryPattern ---》抽象工厂模式
+SingletonPattern ---》单例模式
